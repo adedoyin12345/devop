@@ -2,3 +2,7 @@ hello world
 i am hereO
 okey o thats great
 echo we have just tried another stuff
+hello world
+i am hereO
+okey o thats great
+echo we have just tried another stuff
